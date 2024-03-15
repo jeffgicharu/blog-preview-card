@@ -48,11 +48,13 @@ figure{
     border-radius: 0.3rem;
     margin-bottom: 1rem;
     font-weight: 800;
+    font-size: 1rem;
 }
 
 .two{
     margin-bottom: 1rem;
     font-weight: 500;
+    font-size: 1rem;
 }
 
 h2{
@@ -67,6 +69,7 @@ h2{
     color: hsl(0, 0%, 50%);
     margin-bottom: 1rem;
     font-weight: 500;
+    font-size: 1rem;
 }
 
 section{
@@ -81,4 +84,5 @@ section img{
 
 span{
     font-weight: 800;
+    font-size: 1rem;
 }
